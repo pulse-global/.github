@@ -14,7 +14,7 @@ Pulse Global is a software company in Ghent, Belgium. We build and run our own S
 - LinkedIn: [Pulse Global](https://www.linkedin.com/company/pulseglobal)
 - X: [@pulse_city_](https://x.com/pulse_city_)
 - Instagram: [pulse_city](https://www.instagram.com/pulse_city/)
-- Facebook: [Pulse Global](https://www.facebook.com/profile.php?id=61557967872261)
+- Facebook: [Pulse Global](https://www.facebook.com/pulseglobalbv)
 - Founder: [Lukas D'Hondt](https://www.linkedin.com/in/lukasdhondt)
 
 Pulse Global BV · Edward Pynaertkaai 111, 9000 Ghent, Belgium · BE 1008.017.466
